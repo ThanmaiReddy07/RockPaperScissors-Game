@@ -11,7 +11,7 @@ A simple and interactive Rock-Paper-Scissors game developed using **HTML**, **CS
 
 ## Live Demo:
 
-Check out the live version of the game here: https://usha-30.github.io/ROCK-PAPER-SCISSORS-GAME/
+Check out the live version of the game here: https://ThanmaiReddy07.github.io/RockPaperScissors-Game/
 
 
 ## Technologies Used : <br>
