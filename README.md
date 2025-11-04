@@ -8,12 +8,6 @@ A simple and interactive Rock-Paper-Scissors game developed using **HTML**, **CS
 - Responsive design for an optimal experience on both desktop and mobile devices.<br>
 - Clean, modular code structure for easy maintenance and scalability.<br>
 
-
-## Live Demo:
-
-Check out the live version of the game here: https://ThanmaiReddy07.github.io/RockPaperScissors-Game/
-
-
 ## Technologies Used : <br>
 
 - **HTML**: Structuring the game interface.<br>
